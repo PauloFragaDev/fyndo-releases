@@ -12,8 +12,8 @@
 
 <p align="center">
   <!-- Badges opcionales -->
-  <a href="https://github.com/PauloFragaDev/fyndo-releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/PauloFragaDev/fyndo-releases?label=Última%20versión&style=for-the-badge">
+   <a href="https://github.com/PauloFragaDev/fyndo-releases/releases/latest">
+    <img src="https://img.shields.io/github/v/release/PauloFragaDev/fyndo-releases?label=Ultima%20version&style=for-the-badge">
   </a>
   <img src="https://img.shields.io/badge/Build-Tauri-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Plataformas-Windows%20%7C%20Linux%20%7C%20macOS-4CAF50?style=for-the-badge">
