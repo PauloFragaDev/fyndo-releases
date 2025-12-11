@@ -1,4 +1,3 @@
-# fyndo-releases
 <!-- Logo de la aplicación -->
 <p align="center">
   <img src="docs/logo.png" alt="Fyndo Logo" width="140">
@@ -13,7 +12,7 @@
 
 <p align="center">
   <!-- Badges opcionales -->
-  <a href="https://github.com/USUARIO/REPO/releases/latest">
+  <a href="https://github.com/PauloFragaDev/fyndo-releases/releases/latest">
     <img src="https://img.shields.io/github/v/release/USUARIO/REPO?label=Última%20versión&style=for-the-badge">
   </a>
   <img src="https://img.shields.io/badge/Build-Tauri-blue?style=for-the-badge">
