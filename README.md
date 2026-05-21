@@ -96,18 +96,6 @@ Para mayor transparencia:
 
 ---
 
-## 📣 Feedback
-
-Si encuentras un bug o quieres sugerir una mejora, puedes abrir un **Issue** en este repositorio:
-
-👉 https://github.com/USUARIO/REPO/issues
-
-También puedes contactar directamente:
-
-📩 **tucorreo@ejemplo.com**
-
----
-
 ## 📄 Licencia
 
 Este repositorio contiene únicamente los instaladores públicos de Fyndo.  
